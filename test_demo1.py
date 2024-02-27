@@ -15,7 +15,7 @@ import pytest
 
 @pytest.mark.smoke
 def test_firstProgram():
-    print("Hello")
+    print("Hello123")
 
 @pytest.mark.xfail
 def test_GreetCreditCard():
