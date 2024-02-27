@@ -19,7 +19,7 @@ def test_firstProgram():
 
 @pytest.mark.xfail
 def test_GreetCreditCard():
-    print("Good Morning")
+    print("Good Morning1234")
 
 
 def test_crossBrowser(crossBrowser):
